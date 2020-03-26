@@ -1,8 +1,8 @@
 <h1>About</h1>
 <p>產品協同設計 第4組</p>
 <p>40623115 吳隆廷</p>
-<h1>課程進度</h1>
-<h2>W1-W4</h2>
+<p>W4 <a href="/downloads/作業一40623115.pdf">PDF</a></p><h1>課程進度</h1>
+<p><a href="/get_page/W1-W4">W1-W4</a></p><h2>W1-W4</h2>
 <h5>建立個人倉儲</h5>
 <p><a href="https://drive.google.com/file/d/1fxMdqdCoCL__O1IpZ-Sv-A_4-c77Wx4E/view">可攜系統網址</a></p>
 <p>至github網站上 建立新專案 將名稱命名為CD2020</p>
@@ -14,7 +14,6 @@
 <p>---</p>
 <h5>分組工作分配</h5>
 <div id="chat-container">
-<div>
 <div class="chat-item model-id-5e70d26d93a4dc7021d6914a burstStart read">
 <div class="chat-item__container">
 <div class="chat-item__content">
@@ -49,9 +48,66 @@
 <div class="chat-item__actions js-chat-item-actions"><i class="chat-item__icon icon-check chat-item__icon--read js-chat-item-readby"></i><i class="chat-item__icon icon-ellipsis"></i></div>
 <div class="chat-item__content">
 <div class="chat-item__text js-chat-item-text">40623115 亂數分組程式<br/>40623251 可攜系統<br/>40723204 可攜系統<br/>42723210 四輪車<br/>40723212 四輪車<br/>40723225 四輪車<br/>40723232 亂數分組程式<br/>40723234 可攜系統<br/>40723238 四輪車<br/>40723245 亂數分組程式<br/>40723250 亂數分組程式</div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text">---</div>
+<h4 class="chat-item__text js-chat-item-text"><strong>作業一</strong></h4>
+<p><strong>請描述如何針對該課程進行有效的隨機分組，或者隨機進行點名？</strong></p>
+<ol>
+<li><strong> </strong><strong>隨機分組</strong></li>
+</ol>
+<p>(1)random.shuffle的語法</p>
+<p>使用<span>shuffle() </span>將序列中的所有數字随機排列。</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import random
+ 
+list = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]; # 分組名單
+
+random.shuffle(list) #打亂名單
+
+print("打亂後的名單=",list) #顯示打亂後的名單</pre>
+<p></p>
+<p>(2)for迴圈</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import random
+ 
+list = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]; # 分組名單
+
+random.shuffle(list) #打亂名單
+
+print("打亂後的名單=",list) #顯示打亂後的名單
+
+X = 5 #分為幾組
+
+Y=int(len(list)/X) #計算多少人為一組
+
+list_2 = [] 
+
+for i in range(0,len(list),Y): #執行for迴圈 i ，將名單循環列出 
+    
+    list_2.append(list[i:i+Y]) #依序排列分組人數
+
+    
+print("分組名單=",list_2) #顯示結果
+
+
+</pre>
+<p><br/><br/></p>
+<ol start="2">
+<li><strong> </strong><strong>隨機進行點名</strong></li>
+</ol>
+<p><strong>random.sample(list, X)</strong></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import random
+ 
+list = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]; # 名單
+
+X = 5 #抽點人數
+
+print(random.sample(list,X)) #在名單中，隨機抽出X人數
+
+
+
+</pre>
+<p>PDF：<a href="/downloads/作業一40623115.pdf">作業一.pdf</a><br/><br/></p>
+<p></p>
 </div>
 </div>
 </div>
 </div>
-</div>
-<div id="initial"></div>

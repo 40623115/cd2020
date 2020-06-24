@@ -22,8 +22,8 @@
 <v t="leo.20200624221641.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200624220904.1"><vh>Week1-5</vh>
-<v t="leo.20200624222242.1"><vh>Week1toweek5</vh>
-<v t="leo.20200624222242.2"><vh>內容</vh></v>
+<v t="leo.20200624223802.1"><vh>Week1-5</vh>
+<v t="leo.20200624223802.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20200624221111.1"><vh>Week2</vh>
 <v t="leo.20200624221111.2"><vh>內容</vh></v>
@@ -364,10 +364,8 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200624220904.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20200624220904.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
@@ -377,7 +375,8 @@ vertical: body pane on the botton</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200624221111.2">### Week2
 
 建立個人倉儲
@@ -430,131 +429,154 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200624221352.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20200624221352.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
+
 
 
 						
 </t>
-<t tx="leo.20200624221352.2">&lt;section&gt;
+<t tx="leo.20200624221352.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221352.3">
 
 
 </t>
-<t tx="leo.20200624221352.4">&lt;section&gt;
+<t tx="leo.20200624221352.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221352.5">
 
 
 </t>
-<t tx="leo.20200624221352.6">&lt;section&gt;
+<t tx="leo.20200624221352.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221352.7">
 
 
 </t>
-<t tx="leo.20200624221352.8">&lt;section&gt;
+<t tx="leo.20200624221352.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221352.9">
 
 
 </t>
-<t tx="leo.20200624221355.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20200624221355.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20200624221355.10">&lt;section&gt;
+<t tx="leo.20200624221355.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221355.11">
 
 
 </t>
-<t tx="leo.20200624221355.2">&lt;section&gt;
+<t tx="leo.20200624221355.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221355.3">
 
 
 </t>
-<t tx="leo.20200624221355.4">&lt;section&gt;
+<t tx="leo.20200624221355.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221355.5">
 
 
 </t>
-<t tx="leo.20200624221355.6">&lt;section&gt;
+<t tx="leo.20200624221355.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
+
 </t>
 <t tx="leo.20200624221355.7">
 
 
 </t>
-<t tx="leo.20200624221355.8">&lt;section&gt;
+<t tx="leo.20200624221355.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221355.9">
 
 
 </t>
-<t tx="leo.20200624221356.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20200624221356.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20200624221356.2">&lt;section&gt;
+<t tx="leo.20200624221356.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221356.3">
 
 
 </t>
-<t tx="leo.20200624221356.4">&lt;section&gt;
+<t tx="leo.20200624221356.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221356.5">
 
 
 </t>
-<t tx="leo.20200624221356.6">&lt;section&gt;
+<t tx="leo.20200624221356.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221356.7">
 
 
 </t>
-<t tx="leo.20200624221356.8">&lt;section&gt;
+<t tx="leo.20200624221356.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221356.9">
@@ -581,11 +603,12 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200624222242.1">&lt;section data-markdown&gt;
+<t tx="leo.20200624223802.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200624222242.2">## Week1-5</t>
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624223802.2">## Week1-5</t>
 </tnodes>
 </leo_file>

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,90 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20200624221641.1"><vh>封面投影片</vh>
+<v t="leo.20200624221641.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20200624220904.1"><vh>Week1-5</vh>
+<v t="leo.20200624221111.1"><vh>Week1</vh>
+<v t="leo.20200624221111.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221231.1"><vh>Week2</vh>
+<v t="leo.20200624221231.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221247.1"><vh>Week3</vh>
+<v t="leo.20200624221247.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221249.1"><vh>Week4</vh>
+<v t="leo.20200624221249.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221252.1"><vh>Week5</vh>
+<v t="leo.20200624221252.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20200624221356.1"><vh>Week6-9</vh>
+<v t="leo.20200624221356.2"><vh>Week6</vh>
+<v t="leo.20200624221356.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221356.4"><vh>Week7</vh>
+<v t="leo.20200624221356.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221356.6"><vh>Week8</vh>
+<v t="leo.20200624221356.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221356.8"><vh>Week9</vh>
+<v t="leo.20200624221356.9"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20200624221355.1"><vh>Week10-14</vh>
+<v t="leo.20200624221355.2"><vh>Week10</vh>
+<v t="leo.20200624221355.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.4"><vh>Week11</vh>
+<v t="leo.20200624221355.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.6"><vh>Week12</vh>
+<v t="leo.20200624221355.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.8"><vh>Week13</vh>
+<v t="leo.20200624221355.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.10"><vh>Week14</vh>
+<v t="leo.20200624221355.11"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20200624221352.1"><vh>Week14-18</vh>
+<v t="leo.20200624221352.2"><vh>Week15</vh>
+<v t="leo.20200624221352.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221352.4"><vh>Week16</vh>
+<v t="leo.20200624221352.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221352.6"><vh>Week17</vh>
+<v t="leo.20200624221352.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221352.8"><vh>Week18</vh>
+<v t="leo.20200624221352.9"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -48,18 +107,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -241,15 +288,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -326,5 +364,216 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200624220904.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624221111.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221111.2">## Week1
+###建立個人倉儲
+可攜系統網址
+
+至github網站上 建立新專案 將名稱命名為CD2020
+
+下載完可攜系統，開啟start(會跑出CMD及Sc1)
+
+使用CMD(程式視窗) 將網站用git clone指令抓下來後，將老師的示範倉儲用git submodule 指令抓下來放到自己的倉儲cd2020，並命名資料夾為cmsimde
+
+前往cmsumde--&gt;up_dir 將資料夾裡的資料全部複製到cd2020
+
+完成後使用CMD再次前往cmsumde資料夾，利用python wsgi.py打開近端
+
+按照提示中的網址前往近端，更新Cmsimde網站。</t>
+<t tx="leo.20200624221231.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221231.2">
+
+
+</t>
+<t tx="leo.20200624221247.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221247.2">
+
+
+</t>
+<t tx="leo.20200624221249.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221249.2">
+
+
+</t>
+<t tx="leo.20200624221252.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221252.2">
+
+
+</t>
+<t tx="leo.20200624221352.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624221352.2">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221352.3">
+
+
+</t>
+<t tx="leo.20200624221352.4">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221352.5">
+
+
+</t>
+<t tx="leo.20200624221352.6">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221352.7">
+
+
+</t>
+<t tx="leo.20200624221352.8">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221352.9">
+
+
+</t>
+<t tx="leo.20200624221355.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624221355.10">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221355.11">
+
+
+</t>
+<t tx="leo.20200624221355.2">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221355.3">
+
+
+</t>
+<t tx="leo.20200624221355.4">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221355.5">
+
+
+</t>
+<t tx="leo.20200624221355.6">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221355.7">
+
+
+</t>
+<t tx="leo.20200624221355.8">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221355.9">
+
+
+</t>
+<t tx="leo.20200624221356.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624221356.2">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221356.3">
+
+
+</t>
+<t tx="leo.20200624221356.4">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221356.5">
+
+
+</t>
+<t tx="leo.20200624221356.6">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221356.7">
+
+
+</t>
+<t tx="leo.20200624221356.8">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624221356.9">
+
+
+</t>
+<t tx="leo.20200624221641.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624221641.2">## CMSiMDE 協同產品設計實習
+
+### 40623115  吳隆廷
+
+
+
+[CMSiMDE網誌](https://40623115.github.io/cd2020/content/index.html)
+[Github](https://github.com/40623115/cd2020)
+
+
+</t>
 </tnodes>
 </leo_file>

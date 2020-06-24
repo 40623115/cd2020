@@ -22,11 +22,11 @@
 <v t="leo.20200624221641.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200624220904.1"><vh>Week1-5</vh>
-<v t="leo.20200624221111.1"><vh>Week1</vh>
-<v t="leo.20200624221111.2"><vh>內容</vh></v>
+<v t="leo.20200624222242.1"><vh>Week1toweek5</vh>
+<v t="leo.20200624222242.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20200624221231.1"><vh>Week2</vh>
-<v t="leo.20200624221231.2"><vh>內容</vh></v>
+<v t="leo.20200624221111.1"><vh>Week2</vh>
+<v t="leo.20200624221111.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20200624221247.1"><vh>Week3</vh>
 <v t="leo.20200624221247.2"><vh>內容</vh></v>
@@ -377,9 +377,10 @@ vertical: body pane on the botton</t>
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221111.2">## Week1
-###建立個人倉儲
-可攜系統網址
+<t tx="leo.20200624221111.2">### Week2
+建立個人倉儲
+
+[可攜系統網址](https://drive.google.com/file/d/1fxMdqdCoCL__O1IpZ-Sv-A_4-c77Wx4E/view)
 
 至github網站上 建立新專案 將名稱命名為CD2020
 
@@ -392,19 +393,11 @@ vertical: body pane on the botton</t>
 完成後使用CMD再次前往cmsumde資料夾，利用python wsgi.py打開近端
 
 按照提示中的網址前往近端，更新Cmsimde網站。</t>
-<t tx="leo.20200624221231.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20200624221231.2">
-
-
-</t>
 <t tx="leo.20200624221247.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221247.2">
+<t tx="leo.20200624221247.2">### Week3
 
 
 </t>
@@ -412,7 +405,7 @@ vertical: body pane on the botton</t>
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221249.2">
+<t tx="leo.20200624221249.2">### Week4
 
 
 </t>
@@ -420,7 +413,7 @@ vertical: body pane on the botton</t>
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221252.2">
+<t tx="leo.20200624221252.2">### Week5
 
 
 </t>
@@ -575,5 +568,10 @@ vertical: body pane on the botton</t>
 
 
 </t>
+<t tx="leo.20200624222242.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624222242.2">### Week1 - Week5</t>
 </tnodes>
 </leo_file>

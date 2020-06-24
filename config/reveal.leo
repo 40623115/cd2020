@@ -28,6 +28,9 @@
 <v t="leo.20200624221111.1"><vh>Week2</vh>
 <v t="leo.20200624221111.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20200624224114.1"><vh>Week2-1</vh>
+<v t="leo.20200624224114.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20200624221247.1"><vh>Week3</vh>
 <v t="leo.20200624221247.2"><vh>內容</vh></v>
 </v>
@@ -610,5 +613,16 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624223802.2">## Week1-5</t>
+<t tx="leo.20200624224114.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200624224114.2">完成後使用CMD再次前往cmsumde資料夾，利用python wsgi.py打開近端
+
+
+按照提示中的網址前往近端，更新Cmsimde網站。
+</t>
 </tnodes>
 </leo_file>

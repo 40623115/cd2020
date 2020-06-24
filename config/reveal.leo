@@ -378,21 +378,30 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200624221111.2">### Week2
+
 建立個人倉儲
+
 
 [可攜系統網址](https://drive.google.com/file/d/1fxMdqdCoCL__O1IpZ-Sv-A_4-c77Wx4E/view)
 
+
 至github網站上 建立新專案 將名稱命名為CD2020
+
 
 下載完可攜系統，開啟start(會跑出CMD及Sc1)
 
+
 使用CMD(程式視窗) 將網站用git clone指令抓下來後，將老師的示範倉儲用git submodule 指令抓下來放到自己的倉儲cd2020，並命名資料夾為cmsimde
+
 
 前往cmsumde--&gt;up_dir 將資料夾裡的資料全部複製到cd2020
 
+
 完成後使用CMD再次前往cmsumde資料夾，利用python wsgi.py打開近端
 
-按照提示中的網址前往近端，更新Cmsimde網站。</t>
+
+按照提示中的網址前往近端，更新Cmsimde網站。
+</t>
 <t tx="leo.20200624221247.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -572,6 +581,6 @@ vertical: body pane on the botton</t>
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624222242.2">### Week1 - Week5</t>
+<t tx="leo.20200624222242.2">## Week1-5</t>
 </tnodes>
 </leo_file>

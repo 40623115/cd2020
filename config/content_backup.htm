@@ -6,7 +6,8 @@
 <h4><a href="/cd2020/content/Week1-Week5">Week1-Week5</a></h4>
 <h4><a href="/cd2020/content/Week6-Week9">Week6-Week9</a></h4>
 <h4><a href="/cd2020/content/Week10-Week14">Week10-Week14</a></h4>
-<h4><a href="/cd2020/content/Week15-Week18">Week15-Week18</a></h4><h2>Week1-Week5</h2>
+<h4><a href="/cd2020/content/Week15-Week18">Week15-Week18</a></h4>
+<h2>Week1-Week5</h2>
 <h5>week2</h5>
 <h5>建立個人倉儲</h5>
 <p><a href="https://drive.google.com/file/d/1fxMdqdCoCL__O1IpZ-Sv-A_4-c77Wx4E/view">可攜系統網址</a></p>
@@ -275,7 +276,7 @@ print(random.sample(list,X)) #在名單中，隨機抽出X人數
 <p><span>Automatic Suspend&gt;將兩個選項都關閉，關閉螢幕與電腦自動休眠</span></p>
 <p>方法一</p>
 <p>開啟Putty&gt;Host name輸入localhost，Saved Sessions輸入localhost按下Save</p>
-<p><span>SSH&gt;X11&gt;X display location&gt;localhost0.0&gt;將Enable X11 forwarding打勾&gt;按下OPEN</span></p>
+<p><span>SSH&gt;X11&gt;X display location&gt;localhost:0.0&gt;將Enable X11 forwarding打勾&gt;按下OPEN</span></p>
 <p>輸入帳號kmol2020&gt;密碼kmol2020&gt;輸入</p>
 <p>打開XLaunch&gt;都按下一步</p>
 <p><span>回到Putty&gt;輸入Xterm&amp;</span></p>
@@ -290,23 +291,38 @@ print(random.sample(list,X)) #在名單中，隨機抽出X人數
 <p>輸入 ./coppeliaSim.sh 開啟Vrep&gt;<span>open recent scent&gt;sdc.ttt開啟四輪車模擬圖</span></p>
 <p>點擊右上角開始按鈕</p>
 <p><span>開啟car_model.py中案F5(tool&gt;GO)</span></p>
-<h3>IPV4 Ubuntu 對外連線</h3>
-<h5>新增整體系統阜號，主機網路為NAT Network。</h5>
-<h5>按下啟動，密碼 kmol2020，開啟 LXTermmial。</h5>
-<h5>輸入ifconfig -&gt; sudo apt install net-tools，密碼 kmol2020。</h5>
-<h5>輸入ping 127.0.0.1測試，然後進入cd2020pj1-&gt;git pull。</h5>
-<h5>輸入sudo vi wsgi.py編輯內容，按 i 編輯，近端的host 改為10.0.2.4。</h5>
-<h5>按下esc後，輸入"wq" 儲存，開啟cd2020pj1.leo，在nav中搜尋"allowExt"。</h5>
-<h5>新增 ttt檔，然後在tmp下sudo vi oauth_scrum.txt中輸入內容</h5>
-<h5>輸入python3 wsgi.py 去啟動遠端。</h5>
-<h5>前往網站https:/127.0.0.0.1.1.8443/alogin。</h5>
+<h4>IPV4 Ubuntu 對外連線</h4>
+<h6>新增整體系統阜號，主機網路為NAT Network。</h6>
+<h6>按下啟動，密碼 kmol2020，開啟 LXTermmial。</h6>
+<h6>輸入ifconfig -&gt; sudo apt install net-tools，密碼 kmol2020。</h6>
+<h6>輸入ping 127.0.0.1測試，然後進入cd2020pj1-&gt;git pull。</h6>
+<h6>輸入sudo vi wsgi.py編輯內容，按 i 編輯，近端的host 改為10.0.2.4。</h6>
+<h6>按下esc後，輸入"wq" 儲存，開啟cd2020pj1.leo，在nav中搜尋"allowExt"。</h6>
+<h6>新增 ttt檔，然後在tmp下sudo vi oauth_scrum.txt中輸入內容</h6>
+<h6>輸入python3 wsgi.py 去啟動遠端。</h6>
+<h6>前往網站https:/127.0.0.0.1.1.8443/alogin。</h6>
+<p>---------------------------------------------------------</p>
+<h4>FlieZilla虛擬主機共享</h4>
+<p>下載<a href="https://portableapps.com/support/blocked">FlieZilla</a></p>
+<p>開啟Ubuntu&gt;檔案&gt;喜好設定&gt;網路&gt;NatNatwork&gt;編輯&gt;連接埠轉送&gt;設定埠號&gt;案下確定</p>
+<p>開啟Putty&gt;<span>Host name輸入::1，Saved Sessions輸入::1</span></p>
+<p><span>SSH&gt;X11&gt;X display location&gt;localhost:0.0&gt;將Enable X11 forwarding打勾&gt;按下OPEN</span></p>
+<p>輸入帳號kmol2020&gt;密碼kmol2020&gt;輸入</p>
+<p></p>
+<p>開啟FlieZilla&gt;檔案&gt;站台管理員&gt;新增站台&gt;主機名稱為改::1&gt;協定改為SFTP</p>
+<p>主機輸入 [::1]&gt;連接埠輸入22&gt;按下連接&gt;輸入密碼kmol2020完成共享</p>
 <p></p>
 <p></p><h2>Week15-Week18</h2>
-<p>Week15</p>
-<p>Week16</p>
-<p>Week17</p>
-<p>Week18</p>
-<h1>Topic 0 翻譯</h1>
+<h5></h5>
+<p></p>
+<h5>IPV6連線個人倉儲</h5>
+<p>開啟VirtualBox&gt;啟動Ubuntu主機&gt;把自己的網站Clone下來</p>
+<p>輸入ifconfig&gt;複製Ipv6</p>
+<p>進入cmsimde&gt;輸入sudo vi wsgi.py&gt;找到host將原先的刪除，複製的Ipv6貼上去</p>
+<p>輸入wo儲存&gt;輸入python wsgi.py啟動近端</p>
+<p>到網站上輸入 <a href="https://[2001:288:6004:17:2020:2:0:7210]:19443">https://[2001:288:6004:17:2020:2:0:7210]:19443</a> 開啟</p>
+<p>到VirtualBox更改IP設定&gt;按下重新整理&gt;開始編輯</p>
+<p></p><h1>Topic 0 翻譯</h1>
 <p>翻譯範圍：第一章</p>
 <p><b>第1章<br/>成功的設計</b></p>
 <p>本章為您介紹了設計電子產品外殼的方法，並定義了“成功的設計”。</p>

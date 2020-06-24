@@ -373,10 +373,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624221111.1">&lt;section&gt;
+<t tx="leo.20200624221111.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200624221111.2">### Week2
 
 建立個人倉儲
@@ -402,26 +403,29 @@ vertical: body pane on the botton</t>
 
 按照提示中的網址前往近端，更新Cmsimde網站。
 </t>
-<t tx="leo.20200624221247.1">&lt;section&gt;
+<t tx="leo.20200624221247.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200624221247.2">### Week3
 
 
 </t>
-<t tx="leo.20200624221249.1">&lt;section&gt;
+<t tx="leo.20200624221249.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200624221249.2">### Week4
 
 
 </t>
-<t tx="leo.20200624221252.1">&lt;section&gt;
+<t tx="leo.20200624221252.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200624221252.2">### Week5
 
 
@@ -577,10 +581,11 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200624222242.1">&lt;section&gt;
+<t tx="leo.20200624222242.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200624222242.2">## Week1-5</t>
 </tnodes>
 </leo_file>

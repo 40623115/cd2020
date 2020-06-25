@@ -46,13 +46,16 @@
 <v t="leo.20200625114800.1"><vh>Week4-2</vh>
 <v t="leo.20200625114800.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20200624221252.1"><vh>Week5</vh>
-<v t="leo.20200624221252.2"><vh>內容</vh></v>
+<v t="leo.20200625115156.1"><vh>Week4-3</vh>
+<v t="leo.20200625115156.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20200624221356.1"><vh>Week6-9</vh>
 <v t="leo.20200624221356.2"><vh>Week6</vh>
 <v t="leo.20200624221356.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625120202.1"><vh>Week6-2</vh>
+<v t="leo.20200625120202.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20200624221356.4"><vh>Week7</vh>
 <v t="leo.20200624221356.5"><vh>內容</vh></v>
@@ -60,8 +63,26 @@
 <v t="leo.20200624221356.6"><vh>Week8</vh>
 <v t="leo.20200624221356.7"><vh>內容</vh></v>
 </v>
+<v t="leo.20200625120828.1"><vh>Week8-2</vh>
+<v t="leo.20200625120828.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20200624221356.8"><vh>Week9</vh>
 <v t="leo.20200624221356.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625121749.1"><vh>Week9-1</vh>
+<v t="leo.20200625121749.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625121751.1"><vh>Week9-2</vh>
+<v t="leo.20200625121751.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625122314.1"><vh>Week9-3</vh>
+<v t="leo.20200625122314.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625122551.1"><vh>Week9-4</vh>
+<v t="leo.20200625122551.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625122552.1"><vh>Week9-5</vh>
+<v t="leo.20200625122552.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20200624221355.1"><vh>Week10-14</vh>
@@ -435,15 +456,6 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200624221252.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200624221252.2">### Week5
-
-
-</t>
 <t tx="leo.20200624221352.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -566,7 +578,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624221356.3">### Week6
 
-
+直播網址：
+&lt;iframe src="https://www.youtube.com/watch?v=a69tNWKmC64&amp;feature=youtu.be" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200624221356.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -577,6 +590,12 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200624221356.5">### Week7
 
 
+
+* 請各學員登入 gm 帳號，從 [topics.html](http://mde.tw/cd2020/content/Topics.html) 下載 pdf 課程教材。
+
+* [topic 0 PDF](https://drive.google.com/file/d/13THamnfayiRT4Wa9KzmjXQSP4ZW2jIej/view)
+
+* TOPIC 0 [翻譯](https://40623115.github.io/cd2020/content/Topic%200%20%E7%BF%BB%E8%AD%AF)
 </t>
 <t tx="leo.20200624221356.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -586,7 +605,23 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624221356.7">### Week8
 
+本周採用線上教學課程
 
+直播網址：[上課影片1](https://www.youtube.com/watch?v=FaOQiIGeK0U)
+、
+[上課影片2](https://youtu.be/x1qccPR0fug)
+
+第三堂課各組抽4位同學直播
+
+直播名單：
+
+group 1
+
+40723246、40723223、40723201、40732319
+
+group 2
+
+40623117、40723236、40723240、40723249
 </t>
 <t tx="leo.20200624221356.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -596,8 +631,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624221356.9">### Week9
 
+期中考周
 
-</t>
+老師與組長在GOOGLE MEET中開會， 同時開放 live streaming，解決課程中遇到的問題。</t>
 <t tx="leo.20200624221641.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -676,6 +712,95 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200625114800.2">### for迴圈
 
 &lt;iframe src="https://40623115.github.io/cd2020/images/for%E8%BF%B4%E5%9C%882.JPG"width="800" height="492"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625115156.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200625115156.2">### 隨機進行點名：
+
+* random.sample(list, X)
+
+&lt;iframe src="https://40623115.github.io/cd2020/images/FOR%E8%BF%B4%E5%9C%883.JPG"width="800" height="492"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200625120202.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625120202.2">### 工作分配：
+
+topic 1：40623115、40623251、40723204、42723210、40723212、40723225
+
+topic 0：40723232、40723234、40723238、40723245、40723250
+</t>
+<t tx="leo.20200625120828.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625120828.2">直播名單：
+
+group 3
+
+40723209、40723203、40723247、40623114
+
+group 4
+
+40723212、40723232、40723204、40623115
+
+[本機直播網址](https://youtu.be/o3xLqFTSaZU)
+
+[課堂問卷](http://mde.tw/cd2020pj1/content/Streaming.html)
+</t>
+<t tx="leo.20200625121749.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625121749.2">透過GOOGLE行事曆建立 Google Handout Meet 會議，錄製至少 10 分鐘的個人期中簡報影片，說明個人於 W1-W8 所完成的相關內容。
+&lt;iframe src="https://40623115.github.io/cd2020/images/chrome_2020-05-28_13-38-04.png"width="600" height="500"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200625121751.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625121751.2">個人簡報錄製後，會儲存至個人 Google Drive 中，將期中簡報 mp4 影片以共享設置為所有登入 @gm 帳號的用戶都可以觀看。
+&lt;iframe src="https://40623115.github.io/cd2020/images/chrome_2020-05-28_13-40-59.png"width="600" height="492"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200625122314.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625122314.2">
+&lt;iframe src="https://40623115.github.io/cd2020/images/chrome_2020-05-28_13-42-13.png"width="1000" height="700"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625122551.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625122551.2">&lt;iframe src="https://40623115.github.io/cd2020/images/chrome_2020-05-28_13-44-26.png"width="1000" height="700"&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200625122552.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625122552.2">完成後請登入 @gm 個人帳號，至 https://forms.gle/T1Vs4sv9EdetxoWF7  填寫表單並完成期中個人自評成績登錄。
 </t>
 </tnodes>
 </leo_file>

@@ -28,11 +28,17 @@
 <v t="leo.20200624221111.1"><vh>Week2</vh>
 <v t="leo.20200624221111.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20200624224114.1"><vh>Week2-1</vh>
+<v t="leo.20200624224114.1"><vh>Week2-2</vh>
 <v t="leo.20200624224114.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20200624221247.1"><vh>Week3</vh>
 <v t="leo.20200624221247.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625111126.1"><vh>Week3-2</vh>
+<v t="leo.20200625111126.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625111738.1"><vh>Week3-3</vh>
+<v t="leo.20200625111738.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20200624221249.1"><vh>Week4</vh>
 <v t="leo.20200624221249.2"><vh>內容</vh></v>
@@ -384,27 +390,15 @@ vertical: body pane on the botton</t>
 
 建立個人倉儲
 
-
 [可攜系統網址](https://drive.google.com/file/d/1fxMdqdCoCL__O1IpZ-Sv-A_4-c77Wx4E/view)
-
 
 至github網站上 建立新專案 將名稱命名為CD2020
 
-
 下載完可攜系統，開啟start(會跑出CMD及Sc1)
-
 
 使用CMD(程式視窗) 將網站用git clone指令抓下來後，將老師的示範倉儲用git submodule 指令抓下來放到自己的倉儲cd2020，並命名資料夾為cmsimde
 
-
-前往cmsumde--&gt;up_dir 將資料夾裡的資料全部複製到cd2020
-
-
-完成後使用CMD再次前往cmsumde資料夾，利用python wsgi.py打開近端
-
-
-按照提示中的網址前往近端，更新Cmsimde網站。
-</t>
+前往cmsumde--&gt;up_dir 將資料夾裡的資料全部複製到cd2020</t>
 <t tx="leo.20200624221247.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -412,8 +406,13 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200624221247.2">### Week3
 
+分組工作分配
 
-</t>
+* 請描述如何針對該課程進行有效的隨機分組，或者隨機進行點名？
+
+* 描述如何為Windows 10 64位系統準備一個可移植的Python編程系統，以允許在Github上維護CMSiMDE網站，Pelican博客和Reveal.js演示文稿？
+
+* 您需要從[了解什麼來實現四輪機器人？](http://www.coppeliarobotics.com/helpFiles/index.html)</t>
 <t tx="leo.20200624221249.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -621,8 +620,40 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624224114.2">完成後使用CMD再次前往cmsumde資料夾，利用python wsgi.py打開近端
 
+按照提示中的網址前往近端，更新Cmsimde網站。</t>
+<t tx="leo.20200625111126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200625111126.2">## 分工表1：
 
-按照提示中的網址前往近端，更新Cmsimde網站。
-</t>
+* 40623115 亂數分組程式
+
+* 40623251 可攜系統
+
+* 40723204 可攜系統
+
+* 40723210 四輪車
+
+* 40723212 四輪車
+
+* 40723225 四輪車
+
+* 40723232 亂數分組程式</t>
+<t tx="leo.20200625111738.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200625111738.2">## 分工表2：
+
+* 40723234 可攜系統
+
+* 40723238 四輪車
+
+* 40723245 亂數分組程式
+
+* 40723250 亂數分組程式</t>
 </tnodes>
 </leo_file>

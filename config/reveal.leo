@@ -43,6 +43,9 @@
 <v t="leo.20200624221249.1"><vh>Week4</vh>
 <v t="leo.20200624221249.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20200625114800.1"><vh>Week4-2</vh>
+<v t="leo.20200625114800.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20200624221252.1"><vh>Week5</vh>
 <v t="leo.20200624221252.2"><vh>內容</vh></v>
 </v>
@@ -420,6 +423,16 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200624221249.2">### Week4
 
+作業一
+
+* 請描述如何針對該課程進行有效的隨機分組，或者隨機進行點名？
+
+* 隨機分組：random.shuffle的語法
+
+使用shuffle() 將序列中的所有數字随機排列。
+
+&lt;iframe src="https://40623115.github.io/cd2020/images/FOR%E8%BF%B4%E5%9C%88.JPG"width="800" height="492"&gt;&lt;/iframe&gt;
+
 
 </t>
 <t tx="leo.20200624221252.1">&lt;section data-markdown&gt;
@@ -655,5 +668,14 @@ vertical: body pane on the botton</t>
 * 40723245 亂數分組程式
 
 * 40723250 亂數分組程式</t>
+<t tx="leo.20200625114800.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200625114800.2">### for迴圈
+
+&lt;iframe src="https://40623115.github.io/cd2020/images/for%E8%BF%B4%E5%9C%882.JPG"width="800" height="492"&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>

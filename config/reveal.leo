@@ -51,6 +51,9 @@
 </v>
 </v>
 <v t="leo.20200624221356.1"><vh>Week6-9</vh>
+<v t="leo.20200625143622.1"><vh>Week6-9</vh>
+<v t="leo.20200625143622.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20200624221356.2"><vh>Week6</vh>
 <v t="leo.20200624221356.3"><vh>內容</vh></v>
 </v>
@@ -81,39 +84,87 @@
 <v t="leo.20200625122551.1"><vh>Week9-4</vh>
 <v t="leo.20200625122551.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20200625122552.1"><vh>Week9-5</vh>
+<v t="leo.20200625122853.1"><vh>Week9-5</vh>
+<v t="leo.20200625122853.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625122552.1"><vh>Week9-6</vh>
 <v t="leo.20200625122552.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20200624221355.1"><vh>Week10-14</vh>
+<v t="leo.20200625143629.1"><vh>Week10-14</vh>
+<v t="leo.20200625143629.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20200624221355.2"><vh>Week10</vh>
 <v t="leo.20200624221355.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20200624221355.4"><vh>Week11</vh>
+<v t="leo.20200625135343.1"><vh>Week10-2</vh>
+<v t="leo.20200625135343.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625135514.1"><vh>Week10-3</vh>
+<v t="leo.20200625135514.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625135516.1"><vh>Week10-4</vh>
+<v t="leo.20200625135516.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.4"><vh>ssh to github</vh>
 <v t="leo.20200624221355.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20200624221355.6"><vh>Week12</vh>
+<v t="leo.20200625140048.1"><vh>ssh to github-2</vh>
+<v t="leo.20200625140048.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625140049.1"><vh>ssh to github-3</vh>
+<v t="leo.20200625140049.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625140050.1"><vh>ssh to github-4</vh>
+<v t="leo.20200625140050.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625140052.1"><vh>ssh to github-5</vh>
+<v t="leo.20200625140052.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.6"><vh>Vrep虛擬主機連線</vh>
 <v t="leo.20200624221355.7"><vh>內容</vh></v>
 </v>
-<v t="leo.20200624221355.8"><vh>Week13</vh>
+<v t="leo.20200625141237.1"><vh>Vrep虛擬主機連線-2</vh>
+<v t="leo.20200625141237.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625141239.1"><vh>Vrep虛擬主機連線-3</vh>
+<v t="leo.20200625141239.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625141241.1"><vh>Vrep虛擬主機連線-4</vh>
+<v t="leo.20200625141241.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.8"><vh>Remote API 連線</vh>
 <v t="leo.20200624221355.9"><vh>內容</vh></v>
 </v>
-<v t="leo.20200624221355.10"><vh>Week14</vh>
+<v t="leo.20200625141759.1"><vh>Remote API 連線-2</vh>
+<v t="leo.20200625141759.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625142224.1"><vh>方法一-2</vh>
+<v t="leo.20200625142224.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625141800.1"><vh>Remote API 連線-3</vh>
+<v t="leo.20200625141800.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625141803.1"><vh>IPV4 Ubuntu 對外連線</vh>
+<v t="leo.20200625141803.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625142950.1"><vh>IPV4 Ubuntu 對外連線-2</vh>
+<v t="leo.20200625142950.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221355.10"><vh>FlieZilla虛擬主機共享</vh>
 <v t="leo.20200624221355.11"><vh>內容</vh></v>
+</v>
+<v t="leo.20200625143259.1"><vh>FlieZilla虛擬主機共享-2</vh>
+<v t="leo.20200625143259.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20200624221352.1"><vh>Week14-18</vh>
-<v t="leo.20200624221352.2"><vh>Week15</vh>
+<v t="leo.20200625143635.1"><vh>Week14-18</vh>
+<v t="leo.20200625143635.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20200624221352.2"><vh>IPV6連線個人倉儲</vh>
 <v t="leo.20200624221352.3"><vh>內容</vh></v>
-</v>
-<v t="leo.20200624221352.4"><vh>Week16</vh>
-<v t="leo.20200624221352.5"><vh>內容</vh></v>
-</v>
-<v t="leo.20200624221352.6"><vh>Week17</vh>
-<v t="leo.20200624221352.7"><vh>內容</vh></v>
-</v>
-<v t="leo.20200624221352.8"><vh>Week18</vh>
-<v t="leo.20200624221352.9"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
@@ -471,40 +522,19 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221352.3">### Week15
+<t tx="leo.20200624221352.3">### IPV6連線個人倉儲
 
+* 開啟VirtualBox&gt;啟動Ubuntu主機&gt;把自己的網站Clone下來
 
-</t>
-<t tx="leo.20200624221352.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200624221352.5">### Week16
+* 輸入ifconfig&gt;複製Ipv6
 
+* 進入cmsimde&gt;輸入sudo vi wsgi.py&gt;找到host將原先的刪除，複製的Ipv6貼上去
 
-</t>
-<t tx="leo.20200624221352.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200624221352.7">### Week17
+* 輸入wo儲存&gt;輸入python wsgi.py啟動近端
 
+* 到網站上輸入 https://[2001:288:6004:17:2020:2:0:7210]:19443 開啟
 
-</t>
-<t tx="leo.20200624221352.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200624221352.9">### Week18
-
-
-</t>
+* 到VirtualBox更改IP設定&gt;按下重新整理&gt;開始編輯</t>
 <t tx="leo.20200624221355.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -518,10 +548,17 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221355.11">### Week14
+<t tx="leo.20200624221355.11">### FlieZilla虛擬主機共享
 
+* 下載[FlieZilla](https://portableapps.com/support/blocked)
 
-</t>
+* 開啟Ubuntu&gt;檔案&gt;喜好設定&gt;網路&gt;NatNatwork&gt;編輯&gt;連接埠轉送&gt;設定埠號&gt;案下確定
+
+* 開啟Putty&gt;Host name輸入::1，Saved Sessions輸入::1
+
+* SSH&gt;X11&gt;X display location&gt;localhost:0.0&gt;將Enable X11 forwarding打勾&gt;按下OPEN
+
+* 輸入帳號kmol2020&gt;密碼kmol2020&gt;輸入</t>
 <t tx="leo.20200624221355.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -530,6 +567,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624221355.3">### Week10
 
+topic 2 PDF [MSModelingAndTFApproaches.pdf.](https://drive.google.com/file/d/1KRb8vX_LB_3hkLwK1z1LOP8wl_StIZOR/view?usp=sharing)
+
+[翻譯PDF](https://40623115.github.io/cd2020/downloads/111-140P.pdf)
 
 </t>
 <t tx="leo.20200624221355.4">&lt;section data-markdown&gt;
@@ -538,9 +578,15 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221355.5">### Week11
+<t tx="leo.20200624221355.5">### ssh to github
 
+* 將SSH密鑰複製到剪貼板。
 
+* 如果您的SSH密鑰文件的名稱與示例代碼的名稱不同，請修改文件名以匹配當前設置。複製密鑰時，請勿添加任何換行符或空格。
+
+* 提示：如果clip不起作用，則可以找到隱藏的.ssh文件夾，在您喜歡的文本編輯器中打開文件，然後將其複製到剪貼板。
+
+* 在任何頁面的右上角，點擊您的個人資料照片，然後點擊設置。
 </t>
 <t tx="leo.20200624221355.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -549,20 +595,38 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200624221355.7">### Week12
+<t tx="leo.20200624221355.7">### Vrep虛擬主機連線
 
+* 下載[Ubuntu](https://drive.google.com/file/d/143jFMheM1xjLxhLkSAouThLzj3WUYX6_/view) 和 [VirtualBox](https://drive.google.com/file/d/143jFMheM1xjLxhLkSAouThLzj3WUYX6_/view)
 
-</t>
+* 開啟VirtualBox&gt;點擊檔案&gt;匯入應用程式&gt;點選剛剛下載的Ubuntu檔案
+
+* 回到VirtualBox&gt;點擊檔案&gt;喜好設定&gt;網路&gt;新增Net網路&gt;確定
+
+* 回到VirtualBox&gt;點擊已匯入的Ubuntu檔&gt;設定&gt;網路&gt;附加到改為僅限主機介面卡&gt;確定
+
+* 回到VirtualBox&gt;點擊已匯入的Ubuntu檔&gt;啟動</t>
 <t tx="leo.20200624221355.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200624221355.9">### Week13
+<t tx="leo.20200624221355.9">### Remote API 連線
 
+* 下載[控制程式](https://drive.google.com/file/d/1KlnsgBFyp6OpCC_BlYH-jKL4uJixpoBl/view) 和 [Xming](https://sourceforge.net/projects/xming/)
 
-</t>
+* 開啟VirtualBox&gt;點擊Ubuntu&gt;設定&gt;網路&gt;附加到改為NAT&gt;進階&gt;連接埠傳送
+
+* 新增三個連接埠&gt;設定IP&gt;確定
+
+* 回到VirtualBox&gt;點擊Ubuntu&gt;啟動
+
+* 輸入密碼kmol2020&gt;點擊左上角Activities&gt;Show App&gt;Settings
+
+* Power&gt;Blank screen&gt;Never
+
+* Automatic Suspend&gt;兩個選項關閉，關閉螢幕休眠</t>
 <t tx="leo.20200624221356.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -802,5 +866,267 @@ group 4
 </t>
 <t tx="leo.20200625122552.2">完成後請登入 @gm 個人帳號，至 https://forms.gle/T1Vs4sv9EdetxoWF7  填寫表單並完成期中個人自評成績登錄。
 </t>
+<t tx="leo.20200625122853.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625122853.2">&lt;iframe src="https://40623115.github.io/cd2020/images/chrome_2020-05-28_13-44-41.png"width="1200" height="700"&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200625135343.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625135343.2">### 分組名單
+
+MSModelingAndTFApproaches：
+
+* 40723232 	1-20
+
+* 40723234 	21-50
+
+* 40723204 	51-80
+
+* 40723225 	81-110
+
+* 40623115 	111-140
+
+* 40723245 	171-207</t>
+<t tx="leo.20200625135514.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625135514.2">### 分組名單2
+
+* 翻譯MSModelingAndTFApproaches：40723238、40723210
+
+* 翻譯MechEducFutureNeed：40723250、40723210
+
+* 翻譯MechaFutureAndChallenges：40723212
+
+* Mechatronic project：40723210
+</t>
+<t tx="leo.20200625135516.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625135516.2">&lt;iframe src="https://www.youtube.com/watch?v=GmKxlNPx-gs&amp;feature=youtu.be" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200625140048.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625140048.2">在任何頁面的右上角，點擊您的個人資料照片，然後點擊設置。
+
+&lt;iframe src="https://github-images.s3.amazonaws.com/enterprise/2.15/assets/images/help/settings/userbar-account-settings.png"width="1200" height="700"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625140049.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625140049.2">在用戶設置邊欄中，點擊SSH和GPG密鑰。
+
+&lt;iframe src="https://github-images.s3.amazonaws.com/enterprise/2.15/assets/images/help/settings/settings-sidebar-ssh-keys.png"width="300" height="200"&gt;&lt;/iframe&gt;
+
+單擊“ 新建SSH密鑰”或“ 添加SSH密鑰”。
+
+&lt;iframe src="https://github-images.s3.amazonaws.com/enterprise/2.15/assets/images/help/settings/ssh-add-ssh-key.png"width="1000" height="200"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200625140050.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625140050.2">在“標題”字段中，為新密鑰添加一個描述性標籤。例如，如果您使用的是個人Mac，則可以將此鍵稱為“個人MacBook Air”。
+
+將您的密鑰粘貼到“密鑰”字段中。
+
+&lt;iframe src="https://github-images.s3.amazonaws.com/enterprise/2.15/assets/images/help/settings/ssh-key-paste.png"width="1000" height="500"&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20200625140052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625140052.2">單擊添加SSH密鑰。
+
+&lt;iframe src="https://github-images.s3.amazonaws.com/enterprise/2.15/assets/images/help/settings/ssh-add-key.png"width="1000" height="200"&gt;&lt;/iframe&gt;
+
+
+如果出現提示，請確認您的GitHub Enterprise密碼。
+
+&lt;iframe src="https://github-images.s3.amazonaws.com/enterprise/2.15/assets/images/help/settings/sudo_mode_popup.png"width="1000" height="300"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625141237.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200625141237.2">
+&lt;iframe src="https://40623115.github.io/cd2020/images/1.2.jpg"width="1000" height="500"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625141239.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200625141239.2">輸入密碼kmol2020&gt;案左上角Activities&gt;Show App&gt;LXTerminal
+
+輸入cd coppeliasim4_rev4/CoppeliaSim_Edu_V4_0_0_Ubuntu18_04
+
+&lt;iframe src="https://40623115.github.io/cd2020/images/Vrep%E5%89%8D.JPG"width="1000" height="500"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200625141241.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200625141241.2">輸入 ./coppeliaSim.sh 即可開啟Vrep完成連線
+
+&lt;iframe src="https://40623115.github.io/cd2020/images/Vrep.JPG"width="1000" height="500"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625141759.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625141759.2">### 方法一
+
+* 開啟Putty&gt;Host name輸入localhost，Saved Sessions輸入localhost按下Save
+
+* SSH&gt;X11&gt;X display location&gt;localhost:0.0&gt;將Enable X11 forwarding打勾&gt;按下OPEN
+
+* 輸入帳號kmol2020&gt;密碼kmol2020&gt;輸入
+
+* 打開XLaunch&gt;都按下一步
+
+* 回到Putty&gt;輸入Xterm&amp;</t>
+<t tx="leo.20200625141800.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625141800.2">### 方法二
+
+* 輸入密碼kmol2020&gt;案左上角Activities&gt;Show App&gt;LXTerminal
+
+* 輸入cd coppeliasim4_rev4/CoppeliaSim_Edu_V4_0_0_Ubuntu18_04
+
+* 輸入 ./coppeliaSim.sh 開啟Vrep&gt;open recent scent&gt;sdc.ttt開啟四輪車模擬圖
+
+* 點擊右上角開始按鈕
+
+* 開啟car_model.py中案F5(tool&gt;GO)</t>
+<t tx="leo.20200625141803.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625141803.2">### IPV4 Ubuntu 對外連線
+
+* 新增整體系統阜號，主機網路為NAT Network。
+
+* 按下啟動，密碼 kmol2020，開啟 LXTermmial。
+
+* 輸入ifconfig -&gt; sudo apt install net-tools，密碼 kmol2020。
+
+* 輸入ping 127.0.0.1測試，然後進入cd2020pj1-&gt;git pull。
+
+* 輸入sudo vi wsgi.py編輯內容，按 i 編輯，近端的host 改為10.0.2.4。
+
+
+</t>
+<t tx="leo.20200625142224.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625142224.2">* 輸入cd coppeliasim4_rev4/CoppeliaSim_Edu_V4_0_0_Ubuntu18_04
+
+* 輸入 ./coppeliaSim.sh 開啟Vrep&gt;使用SciET開啟控制程式car_model.py
+
+* 回到Vrep&gt;File&gt;open recent scent&gt;sdc.ttt開啟四輪車模擬圖
+
+* 點擊右上角開始按鈕
+
+* 開啟car_model.py中案F5(tool&gt;GO)</t>
+<t tx="leo.20200625142950.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625142950.2">### IPV4 Ubuntu 對外連線2
+
+* 按下esc後，輸入"wq" 儲存，開啟cd2020pj1.leo，在nav中搜尋"allowExt"。
+
+* 新增 ttt檔，然後在tmp下sudo vi oauth_scrum.txt中輸入內容
+
+* 輸入python wsgi.py 去啟動遠端
+
+* 前往網站https:/127.0.0.0.1.1.8443/login編輯網頁
+</t>
+<t tx="leo.20200625143259.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625143259.2">### FlieZilla虛擬主機共享2
+
+* 開啟FlieZilla&gt;檔案&gt;站台管理員&gt;新增站台&gt;主機名稱為改::1&gt;協定改為SFTP
+
+* 主機輸入 [::1]&gt;連接埠輸入22&gt;按下連接&gt;輸入密碼kmol2020完成共享</t>
+<t tx="leo.20200625143622.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625143622.2">## Week6-9</t>
+<t tx="leo.20200625143629.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625143629.2">## Week10-14</t>
+<t tx="leo.20200625143635.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200625143635.2">## Week14-18</t>
 </tnodes>
 </leo_file>
